@@ -1,6 +1,6 @@
-05b7ece489036ee5aa5a8c598119eb46 *DESCRIPTION
+a179d20d84e9899953290ec2f2462694 *DESCRIPTION
 9d764a751344b58655c58e23d7dbaf53 *NAMESPACE
-99719ed6e29d5c3539fd4c0232bfa7bc *NEWS
+2d053ed68771e573c5c745918275a793 *NEWS
 cf5eb5e0b117235cf0cd6833a230dfbf *R/AutoBestBW.Epan.R
 7c5b876dc8398d73210e29446be51f2a *R/Epanechnikov.R
 0ad72cd5eb32e71c582eb198ffddf78d *R/lpacf.Epan.R
@@ -11,9 +11,9 @@ cf5eb5e0b117235cf0cd6833a230dfbf *R/AutoBestBW.Epan.R
 75eb3159715af594fd2762395cc030a0 *R/summary.lpacf.R
 8e59a1760003c0f4949262082ec56506 *R/tvar2sim.R
 9c2c7696ef0c627ec283c50bf3939a73 *man/AutoBestBW.Epan.Rd
-b76f148cd6caacda475877a93704c550 *man/lpacf-package.Rd
-a4b580df2626d26cb55ccde10fedaf83 *man/lpacf.Epan.Rd
-e8ade7d44acd4e8a826d16163b2d3800 *man/lpacf.Rd
+e1b7b589b2bdfb5c5f523bd9a5cd43f7 *man/lpacf-package.Rd
+0416e02ccc7c44cf9d57698f487157fb *man/lpacf.Epan.Rd
+72199c37c8564929543e08b191d7bb53 *man/lpacf.Rd
 3c66683464a63af9760fa694c8491c00 *man/lpacf.plot.Rd
 35217c22a23cb15eb969ee79b8ed1d70 *man/plot.lpacf.Rd
 eba6faf508498beef025a76b3e9bd6ee *man/print.lpacf.Rd

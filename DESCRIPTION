@@ -2,8 +2,8 @@ Package: lpacf
 Type: Package
 Title: Local Partial Autocorrelation Function Estimation for Locally
         Stationary Wavelet Processes
-Version: 1.0
-Date: 2023-04-13
+Version: 1.0.1
+Date: 2023-05-12
 Authors@R: c(person("Rebecca", "Killick",role=c("aut","cre"),email="r.killick@lancs.ac.uk"), person("Guy", "Nason", role="aut"),
 			person("Marina", "Knight", role="aut"), person("Matt", "Nunes", role="aut"), person("Idris", "Eckley", role="ctb"))
 Author: Rebecca Killick [aut, cre],
@@ -16,6 +16,6 @@ Description: Provides the method for computing the local partial autocorrelation
 Depends: R(>= 3.0), stats, locits, wavethresh, parallel, methods
 License: GPL-2
 NeedsCompilation: no
-Packaged: 2023-04-13 11:56:46 UTC; killick
+Packaged: 2023-05-12 09:31:52 UTC; killick
 Repository: CRAN
-Date/Publication: 2023-04-14 11:30:02 UTC
+Date/Publication: 2023-05-12 10:00:03 UTC
